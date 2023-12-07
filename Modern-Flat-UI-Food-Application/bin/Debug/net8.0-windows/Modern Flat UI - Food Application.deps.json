@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modern Flat UI - Food Application/1.0.0": {
+        "runtime": {
+          "Modern Flat UI - Food Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modern Flat UI - Food Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

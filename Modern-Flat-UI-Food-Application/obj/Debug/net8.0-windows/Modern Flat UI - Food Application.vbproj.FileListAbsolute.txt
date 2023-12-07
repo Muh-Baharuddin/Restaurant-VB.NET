@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.AssemblyInfo.vb
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.sourcelink.json
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern_Flat_UI___Food_Application.Resources.resources
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\bin\Debug\net8.0-windows\Modern Flat UI - Food Application.exe
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\bin\Debug\net8.0-windows\Modern Flat UI - Food Application.deps.json
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\bin\Debug\net8.0-windows\Modern Flat UI - Food Application.runtimeconfig.json
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\bin\Debug\net8.0-windows\Modern Flat UI - Food Application.dll
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\bin\Debug\net8.0-windows\Modern Flat UI - Food Application.pdb
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern_Flat_UI___Food_Application.Form1.resources
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.dll
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\refint\Modern Flat UI - Food Application.dll
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.pdb
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\Modern Flat UI - Food Application.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Bahar\My Project\VB .NET\Modern Flat UI - Food Application\Modern Flat UI - Food Application\obj\Debug\net8.0-windows\ref\Modern Flat UI - Food Application.dll
