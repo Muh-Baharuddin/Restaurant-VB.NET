@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\Bahar\\My Project\\VB .NET\\Modern Flat UI - Food Application\\Modern Flat UI - Food Application\\Modern Flat UI - Food Application.vbproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\Bahar\\My-Project\\VB.NET\\Modern-Flat-UI-Food-Application\\Modern-Flat-UI-Food-Application\\Modern Flat UI - Food Application.vbproj",
       "projectName": "Modern Flat UI - Food Application",
-      "projectPath": "C:\\Users\\LENOVO\\Documents\\Bahar\\My Project\\VB .NET\\Modern Flat UI - Food Application\\Modern Flat UI - Food Application\\Modern Flat UI - Food Application.vbproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\Bahar\\My-Project\\VB.NET\\Modern-Flat-UI-Food-Application\\Modern-Flat-UI-Food-Application\\Modern Flat UI - Food Application.vbproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Documents\\Bahar\\My Project\\VB .NET\\Modern Flat UI - Food Application\\Modern Flat UI - Food Application\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\Bahar\\My-Project\\VB.NET\\Modern-Flat-UI-Food-Application\\Modern-Flat-UI-Food-Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

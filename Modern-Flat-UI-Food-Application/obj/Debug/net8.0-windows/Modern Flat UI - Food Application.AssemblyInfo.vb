@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Modern Flat UI - Food Application"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3310b3ccb716154321e35d69546bbe9c73b29f2"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Modern Flat UI - Food Application"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Modern Flat UI - Food Application"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
